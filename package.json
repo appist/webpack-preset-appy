@@ -27,11 +27,6 @@
     "url": "https://github.com/appist/webpack-config-appy/issues"
   },
   "dependencies": {
-    "@pyoner/svelte-types": "^3.4.4-2",
-    "@testing-library/jest-dom": "^5.9.0",
-    "@testing-library/svelte": "^3.0.0",
-    "@types/jest": "^25.2.3",
-    "@types/node": "^14.0.11",
     "babel-loader": "^8.1.0",
     "cross-spawn": "^7.0.3",
     "css-loader": "^3.5.3",
@@ -70,5 +65,6 @@
     "tabWidth": 2,
     "trailingComma": "es5",
     "useTabs": false
-  }
+  },
+  "devDependencies": {}
 }
