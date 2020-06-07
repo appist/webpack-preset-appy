@@ -60,6 +60,7 @@
     "svelte-jester": "^1.0.6",
     "svelte-loader": "^2.13.6",
     "svelte-preprocess": "^3.9.6",
+    "terser-webpack-plugin": "^3.0.3",
     "ts-jest": "^26.1.0",
     "ts-loader": "^7.0.5",
     "typescript": "^3.9.5",
