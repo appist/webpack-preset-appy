@@ -91,5 +91,8 @@
     "trailingComma": "es5",
     "useTabs": false
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  }
 }
